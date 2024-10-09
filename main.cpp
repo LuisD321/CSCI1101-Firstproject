@@ -7,7 +7,7 @@ int main()
 	cout << "Enter your age:";
 	cin >> age;
 
-	cout << " you are " << age << " years old.";
+	cout << " you are " << age << " years old." << endl;
 	
 	return 0;
 
